@@ -1,9 +1,0 @@
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\obj\Debug\netstandard2.0\DesignPatternsStandard.csprojResolveAssemblyReference.cache
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\obj\Debug\netstandard2.0\DesignPatternsStandard.csproj.CoreCompileInputs.cache
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\obj\Debug\netstandard2.0\DesignPatternsStandard.AssemblyInfoInputs.cache
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\obj\Debug\netstandard2.0\DesignPatternsStandard.AssemblyInfo.cs
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\bin\Debug\netstandard2.0\DesignPatternsStandard.deps.json
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\bin\Debug\netstandard2.0\DesignPatternsStandard.dll
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\bin\Debug\netstandard2.0\DesignPatternsStandard.pdb
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\obj\Debug\netstandard2.0\DesignPatternsStandard.dll
-C:\Users\Dimitris\Documents\GitHub\DesignPatternsCSharp\DesignPatternsStandard\obj\Debug\netstandard2.0\DesignPatternsStandard.pdb
